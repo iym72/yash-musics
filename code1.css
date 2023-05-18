@@ -1,0 +1,747 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container{
+    position: relative;
+    bottom:820px;
+    left:45px;
+}
+
+pre{
+    color: aliceblue;
+    position:relative;
+    bottom:800px;
+    font-size: 95px;
+}
+
+.right-col1{
+    position:relative;
+    bottom:1450px;
+    left:1300px;
+    display: flex;
+    align-items: center;
+}
+
+.right-col1 p{
+    font-size:18px;
+    color: black;
+    font-weight: 400px;
+    margin-right:15px;
+}
+
+.right-col2{
+    position:relative;
+    bottom:1450px;
+    left:1300px;
+    display: flex;
+    align-items: center;
+}
+
+.right-col2 p{
+    font-size:18px;
+    color: black;
+    font-weight: 400px;
+    margin-right:15px;
+}
+
+.right-col3{
+    position:relative;
+    bottom:1450px;
+    left:1300px;
+    display: flex;
+    align-items: center;
+}
+
+.right-col3 p{
+    font-size:18px;
+    color: black;
+    font-weight: 400px;
+    margin-right:15px;
+}
+
+#icon{
+    width:80px;
+    cursor: pointer;
+}
+
+.row{
+    display:flex;
+    align-items: center;
+ 
+}
+
+h1{
+    font-size: 90px;
+    color: white;
+    position:relative;
+    bottom:1417px;
+    left:1100px;
+}
+.m-3{
+    position:relative;
+    left:50px;
+}
+.lead{
+    color: aliceblue;
+}
+.text-muted{
+    color:aliceblue;
+}
+
+.eng::after{
+    content: '';
+    background-color:#2cc8ef;
+    background: linear-gradient(90deg,rgba(24,49,82,0)0%,rgba(44,200,229,1)44%,rgba(0,212,255,0)100%);
+    height:1px;
+    display:block;
+    margin-top:15px;
+    width:50%;
+}
+
+.eng{
+    position:relative;
+    left:45px;
+    /* bottom:999px; */
+}
+
+.beliver{
+    position: relative;
+    /* bottom:1297px; */
+    left:50px;
+}
+
+.mus{
+  
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.taki{
+    position: relative;
+    bottom:225px;
+    left:240px;
+}
+
+.musi{
+  
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.stay{
+    position: relative;
+    bottom:470px;
+    left:420px;
+}
+
+.music{
+  
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.despacito{
+    position: relative;
+    bottom:700px;
+    left:600px;
+}
+
+.musicc{
+  
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.thunder{
+    position: relative;
+    bottom:923px;
+    left:775px;
+}
+
+.musiccc{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.habibi{
+    position: relative;
+    bottom:1152px;
+    left:950px;
+}
+
+.musicccc{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.snap{
+    position: relative;
+    bottom:1394px;
+    left:1125px;
+}
+
+.musiccccc{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.ln{
+    position: relative;
+    bottom:1621px;
+    left:1304px;
+}
+
+.musicccccc{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.hw{
+    position: relative;
+    bottom:1848px;
+    left:1485px;
+}
+
+.musiccccccc{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.bollywood1::after{
+    content: '';
+    background-color:#2cc8ef;
+    background: linear-gradient(90deg,rgba(24,49,82,0)0%,rgba(44,200,229,1)44%,rgba(0,212,255,0)100%);
+    height:1px;
+    display:block;
+    margin-top:15px;
+    width:50%;
+}
+
+.bollywood1{
+    position:relative;
+    left:45px;
+    bottom:1400px;
+}
+
+.bhoolbhulaiyaa{
+    position: relative;
+    bottom:1400px;
+    left:50px;
+}
+
+.bol{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.farzi{
+    position: relative;
+    bottom:1626px;
+    left:238px;
+}
+
+.boll{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.hawa{
+    position: relative;
+    bottom:1870px;
+    left:420px;
+}
+
+.bolly{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.tpm{
+    position: relative;
+    bottom:2090px;
+    left:600px;
+}
+
+.bollyw{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.simba{
+    position: relative;
+    bottom:1500px;
+    left:779px;
+}
+
+.bollywo{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.cocacola{
+    position: relative;
+    bottom:2335px;
+    left:783px;
+}
+
+.bollywoo{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.vaaste{
+    position: relative;
+    bottom:2578px;
+    left:960px;
+}
+
+.bollywood{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.apnabanale{
+    position: relative;
+    bottom:2840px;
+    left:1133px;
+}
+
+.bollywoodd{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.mehram{
+    position: relative;
+    bottom:3085px;
+    left:1309px;
+}
+
+.bollywooddd{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.kesariya{
+    position: relative;
+    bottom:3310px;
+    left:1485px;
+}
+
+.bollywoodddd{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.most::after{
+    content: '';
+    background-color:#2cc8ef;
+    background: linear-gradient(90deg,rgba(24,49,82,0)0%,rgba(44,200,229,1)44%,rgba(0,212,255,0)100%);
+    height:1px;
+    display:block;
+    margin-top:15px;
+    width:50%;
+}
+
+.most{
+    position:relative;
+    left:45px;
+    bottom:3999px;
+}
+
+.gangnam{
+    position: relative;
+    bottom:3999px;
+    left:50px;
+}
+
+.v{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.cs{
+    position: relative;
+    bottom:4225px;
+    left:230px;
+}
+
+.vi{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.dtc{
+    position: relative;
+    bottom:4450px;
+    left:409px;
+}
+
+.vie{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.baby{
+    position: relative;
+    bottom:4690px;
+    left:599px;
+}
+
+.view{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.lazy{
+    position: relative;
+    bottom:4915px;
+    left:789px;
+}
+
+.viewv{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.wdta{
+    position: relative;
+    bottom:5141px;
+    left:970px;
+}
+
+.viewvi{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.seeyouagain{
+    position: relative;
+    bottom:5402px;
+    left:1145px;
+}
+
+.viewvie{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.waka{
+    position: relative;
+    bottom:5645px;
+    left:1320px;
+}
+
+.viewview{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.criminal{
+    position: relative;
+    bottom:5868px;
+    left:1495px;
+}
+
+.viewviewv{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.anime::after{
+    content: '';
+    background-color:#2cc8ef;
+    background: linear-gradient(90deg,rgba(24,49,82,0)0%,rgba(44,200,229,1)44%,rgba(0,212,255,0)100%);
+    height:1px;
+    display:block;
+    margin-top:15px;
+    width:50%;
+}
+
+.anime{
+    position:relative;
+    left:45px;
+    bottom:5475px;
+}
+
+.suzume{
+    position:relative;
+    left:45px;
+    bottom:5475px;
+}
+
+.suz{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.hp{
+    position:relative;
+    left:235px;
+    bottom:5699px;
+}
+
+.hpp{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.dr{
+    position:relative;
+    left:423px;
+    bottom:5907px;
+}
+
+.drs{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.oshinoko{
+    position:relative;
+    left:610px;
+    bottom:6130px;
+}
+
+.os{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.gurenge{
+    position:relative;
+    left:790px;
+    bottom:6337px;
+}
+
+.gureng{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.pi{
+    position:relative;
+    left:967px;
+    bottom:6545px;
+}
+
+.onep{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.go{
+    position:relative;
+    left:1490px;
+    bottom:6770px;
+}
+
+.goo{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.aca{
+    position:relative;
+    left:1145px;
+    bottom:6975px;
+}
+
+.ac{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.b-f{
+    position:relative;
+    left:1318px;
+    bottom:7200px;
+}
+
+.bf{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.hiptehop::after{
+    content: '';
+    background-color:#2cc8ef;
+    background: linear-gradient(90deg,rgba(24,49,82,0)0%,rgba(44,200,229,1)44%,rgba(0,212,255,0)100%);
+    height:1px;
+    display:block;
+    margin-top:15px;
+    width:50%;
+}
+
+.hiptehop{
+    position:relative;
+    left:45px;
+    bottom:7170px;
+}
+
+.nol{
+    position:relative;
+    left:50px;
+    bottom:7170px;
+}
+
+.nl{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.ele{
+    position:relative;
+    left:235px;
+    bottom:7395px;
+}
+
+.el{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.rbd{
+    position:relative;
+    left:417px;
+    bottom:7620px;
+}
+
+.rubd{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.we{
+    position:relative;
+    left:600px;
+    bottom:7864px;
+}
+
+.wer{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.dak{
+    position:relative;
+    left:615px;
+    bottom:7865px;
+}
+
+.daku{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.todh{
+    position:relative;
+    left:799px;
+    bottom:8109px;
+}
+
+.tod{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.tt{
+    position:relative;
+    left:975px;
+    bottom:8371px;
+}
+
+.t{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.tie{
+    position:relative;
+    left:1150px;
+    bottom:8598px;
+}
+
+.ti{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.silicone{
+    position:relative;
+    left:1325px;
+    bottom:8820px;
+}
+
+.silicon{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+
+.brm{
+    position:relative;
+    left:1505px;
+    bottom:9045px;
+}
+
+.bm{
+    position: relative;
+    bottom:35px;
+    right:-60px;
+}
+@media screen and (min-width:0px) and (max-width:500px){
+   main{
+   align-items: center;
+   align-content: center;
+   
+    visibility: collapse;
+    visibility: visible;
+   }
+}
